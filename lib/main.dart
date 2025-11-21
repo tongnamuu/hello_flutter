@@ -10,8 +10,7 @@ void main() {
       home: Scaffold(
         backgroundColor: Colors.black,
         body: Center(
-              child: Text("hello flutter", style: TextStyle(color: Colors.green,)
-            )
+          child: Text("hello flutter", style: TextStyle(color: Colors.green)),
         ),
       ),
     ),
